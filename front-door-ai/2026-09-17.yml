@@ -1,0 +1,35 @@
+# Front Door AI Index — habana-labs — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: habana-labs
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.habana.ai
+  final_host: habana.ai
+  ownership: own
+  owner: habana-labs
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 61
+  host_score: 61
+  density: 94.43
+  words: 646
+  tiers:
+    agentic: 7
+    core: 52
+    model: 2
+  ambiguous: 4
+  top_terms:
+    AI: 34
+    deep learning: 10
+    inference: 6
+    artificial intelligence: 3
+    gen ai: 3
+    intelligence: 3
+    GPT: 2
+    fine-tune: 1
+    generative ai: 1
+    large language model: 1
+    smart: 1
