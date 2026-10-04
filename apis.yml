@@ -44,10 +44,13 @@ x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
+x-docs-platform: readthedocs
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-10-03
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - AI Accelerators
 - Deep Learning
 - Hardware
@@ -66,6 +69,7 @@ tags_raw:
 - SDK
 - Developer Tools
 - Intel
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
